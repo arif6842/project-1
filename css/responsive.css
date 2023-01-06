@@ -1,0 +1,6 @@
+/* responsive start here */
+/* mobile responsive */
+@media(max-width:576px) {
+    .container-body-img{
+    }
+}

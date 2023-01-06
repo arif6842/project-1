@@ -1,0 +1,86 @@
+.body{
+    padding: 0px;
+    margin: 0px;
+    overflow: hidden;
+
+
+}
+.nav-body{
+    background: linear-gradient(#4e4d4d, #484849);
+}
+/* body part start here */
+.container-body-img{
+    height: 420px;
+    width: 400px;
+    background: rgb(94, 81, 81);
+    border: 1px solid white;
+    border-radius: 100%;
+
+}
+.container-body h5 {
+    color: white;
+    font-weight: 500;
+    font-size: 30px;
+}
+.container-body h1{
+    color: rgb(241, 71, 71);
+    font-weight: 600;
+    font-size: 50px;
+
+}
+.container-body p{
+    color: rgb(255, 255, 255);
+    font-size: 20px;
+}
+/* features start here */
+.features{
+    background-color: #f2f2f5;
+    padding: 30px;
+}
+.features-header{
+    text-align: center;
+    margin: 20px;
+    padding: 30px;
+}
+.feature-card-img{
+    height: 130px;
+    width: 130px;
+    border-radius: 100%;
+    padding: 10px;
+    margin-left: 90px;
+    margin-top: 40px;
+}
+/* short story start here */
+.short-story{
+    background-color: #dbdada;
+    padding: 20px;
+
+}
+.short-story-img{
+    margin-top: 20px;
+    padding: 20px;
+    height: 390px;
+    width: 390px;
+    border-radius: 100%;
+}
+
+/* short story end here */
+/* Blog post start here */
+.blog-post{
+    margin: 20px;
+    padding: 20px;
+}
+.blog-post-img{
+    height: 190px;
+    width: auto;
+}
+/* footer part start here */
+.footer-part{
+    background-color: black;
+    padding: 10px;
+
+}
+/* footer part end here */
+
+
+
